@@ -1,1 +1,1 @@
-# asc-hands-on
+# 2023-spring-ecr-handson-ssu
